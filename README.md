@@ -1,5 +1,7 @@
 ## Library Management System SQL Project ##
 
+<img width="1120" height="502" alt="image (1)" src="https://github.com/user-attachments/assets/3976d938-c674-4ed1-aa97-8a216384a6f5" />
+
 ##  Project Objectives:-
 
 Based on the SQL queries developed, this project aims to:
@@ -109,7 +111,6 @@ ADD CONSTRAINT fk_issued_id
 FOREIGN KEY (issued_id)
 REFERENCES issued_status (issued_id);
 ```
-<img width="1120" height="502" alt="image (1)" src="https://github.com/user-attachments/assets/3976d938-c674-4ed1-aa97-8a216384a6f5" />
 
 To connect all the tables and establish proper relationships, I used JOIN functions and formed foreign keys among tables as shown in the schema above.
 

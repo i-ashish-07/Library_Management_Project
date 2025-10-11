@@ -83,7 +83,13 @@ create table return_status(
 							return_date date,
 							return_book_isbn varchar(50)
 );
+```
+---
+<img width="1587" height="828" alt="Screenshot 2025-10-11 203647" src="https://github.com/user-attachments/assets/0a31a9a5-9010-447b-90d3-c7d0650785b2" />
 
+To connect all the tables and establish proper relationships, I used JOIN functions and formed foreign keys among tables as shown in the schema above.
+
+```
 --foreign key
 
 ALTER TABLE issued_status
@@ -112,7 +118,6 @@ FOREIGN KEY (issued_id)
 REFERENCES issued_status (issued_id);
 ```
 
-To connect all the tables and establish proper relationships, I used JOIN functions and formed foreign keys among tables as shown in the schema above.
 
 ##  Data Insertion
 

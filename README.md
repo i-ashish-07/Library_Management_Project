@@ -1,6 +1,6 @@
-#Library Management System SQL Project#
+##Library Management System SQL Project##
 
-## 📋 Project Objectives
+##  Project Objectives:-
 
 Based on the SQL queries developed, this project aims to:
 
@@ -11,7 +11,7 @@ Based on the SQL queries developed, this project aims to:
 5. **Implement data analysis** to understand library operations, member behavior, and financial metrics
 6. **Demonstrate advanced SQL techniques** including joins, aggregations, subqueries, and date operations
 
-## 🗃️ Dataset Structure
+##  Dataset Structure
 
 ### Library Management System Database Schema
 
@@ -112,7 +112,7 @@ REFERENCES issued_status (issued_id);
 
 To connect all the tables and establish proper relationships, I used JOIN functions and formed foreign keys among tables as shown in the schema above.
 
-## 📊 Data Insertion
+##  Data Insertion
 
 After creating the table structure, I populated the database with sample data:
 
@@ -181,7 +181,7 @@ VALUES
 ('RS118', 'IS120', '2024-05-29');
 ```
 
-## 🔍 SQL Queries and Analysis
+##  SQL Queries and Analysis
 
 I performed 13 comprehensive SQL queries to analyze the library data:
 
@@ -300,7 +300,7 @@ where r.return_id is null
  and current_date - i.issued_date > 30;
 ```
 
-## 📈 Findings, Report and Conclusion
+##  Findings, Report and Conclusion
 
 ### Key Findings
 
@@ -320,12 +320,12 @@ where r.return_id is null
 
 ### Project Achievements
 
-✅ **Complete Database Design** with proper normalization  
-✅ **Successful Data Population** with realistic sample data  
-✅ **Comprehensive CRUD Operations** demonstrated  
-✅ **Advanced SQL Techniques** including CTAS, JOINs, and aggregations  
-✅ **Business-Relevant Queries** providing actionable insights  
-✅ **Data Analysis Capabilities** for library management decisions  
+ **Complete Database Design** with proper normalization  
+ **Successful Data Population** with realistic sample data  
+ **Comprehensive CRUD Operations** demonstrated  
+ **Advanced SQL Techniques** including CTAS, JOINs, and aggregations  
+ **Business-Relevant Queries** providing actionable insights  
+ **Data Analysis Capabilities** for library management decisions  
 
 ### Conclusion
 
@@ -336,4 +336,3 @@ This Library Management System SQL Project successfully demonstrates the applica
 - **Problem-Solving Approach** by addressing practical library management challenges
 - **Scalable Architecture** that can be extended with additional features
 
-The system provides a solid foundation for a production-level library management solution and serves as an excellent demonstration of SQL skills for database management and business intelligence applications.

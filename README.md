@@ -1,6 +1,6 @@
 ## Library Management System SQL Project ##
 ## Project Overview ##
-Project Title: Library Management System 
+** Project Title: Library Management System **
 
 This project showcases the development of a Library Management System using SQL. It involves designing and managing database tables, performing CRUD operations, and executing advanced SQL queries. The objective is to demonstrate proficiency in database design, data manipulation, and query execution.
 

@@ -313,25 +313,17 @@ where r.return_id is null
  and current_date - i.issued_date > 30;
 ```
 
-##  Findings, Report and Conclusion
+##  Findings, Project Achievement, and Conclusion.
 
-### Key Findings
+### Key Findings.
 
 1. **Database Structure Success**: Successfully designed and implemented a normalized database with 6 interconnected tables
-2. **Data Integrity**: Established proper foreign key relationships ensuring referential integrity
-3. **Operational Insights**: 
-   - Identified active members and their borrowing patterns
-   - Tracked book availability and return status
-   - Calculated rental revenue by category
-   - Monitored employee performance in book processing
+2. **Data Integrity**: Established proper foreign key relationships, ensuring referential integrity
+3. **Operational Insights**: The system analyzes member activity, tracks book availability and returns, calculates rental revenue, and evaluates employee performance in book processing.
+4. **Business Intelligence**: It highlights strong rental income from classic books, multiple active issuances by members, effective overdue tracking, and clear branch-wise management structures.
 
-4. **Business Intelligence**:
-   - Classic books generate significant rental income
-   - Several members have multiple active book issuances
-   - Overdue book tracking helps in library management
-   - Branch-wise employee and manager relationships are clearly established
 
-### Project Achievements
+### Project Achievements.
 
  **Complete Database Design** with proper normalization  
  **Successful Data Population** with realistic sample data  
@@ -340,6 +332,6 @@ where r.return_id is null
  **Business-Relevant Queries** providing actionable insights  
  **Data Analysis Capabilities** for library management decisions  
 
-### Conclusion
+### Conclusion.
 
 This Library Management System SQL Project successfully demonstrates the application of database design principles and SQL querying techniques to solve real-world business problems.

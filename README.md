@@ -1,4 +1,4 @@
-# Library Management System SQL Project 
+# 📚Library Management System SQL Project 
 ## Project Overview ##
 **Project Title: Library Management System**
 **Database: sql_library_project_db**

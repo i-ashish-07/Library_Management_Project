@@ -325,12 +325,11 @@ where r.return_id is null
 
 ### Project Achievements.
 
- **Complete Database Design** with proper normalization  
- **Successful Data Population** with realistic sample data  
- **Comprehensive CRUD Operations** demonstrated  
- **Advanced SQL Techniques** including CTAS, JOINs, and aggregations  
- **Business-Relevant Queries** providing actionable insights  
- **Data Analysis Capabilities** for library management decisions  
+ **Complete Database Design** with proper normalization.
+ **Successful Data Population** with realistic sample data.
+ **Comprehensive CRUD Operations** demonstrated.
+ **Advanced SQL Techniques** including CTAS, JOINs, and aggregations.
+ **Data Analysis Capabilities** for library management decisions.
 
 ### Conclusion.
 

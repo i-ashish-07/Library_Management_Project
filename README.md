@@ -4,7 +4,6 @@
 **Database: sql_library_project_db**
 This project showcases the development of a Library Management System using SQL. It involves designing and managing database tables, performing CRUD operations, and executing advanced SQL queries. The objective is to demonstrate proficiency in database design, data manipulation, and query execution.
 
-<img width="1120" height="502" alt="image (1)" src="https://github.com/user-attachments/assets/3976d938-c674-4ed1-aa97-8a216384a6f5" />
 
 ##  Project Objectives:-
 
